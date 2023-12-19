@@ -1,0 +1,7 @@
+E:\Abstract Factory\Abstract\bin\Debug\Abstract.exe.config
+E:\Abstract Factory\Abstract\bin\Debug\Abstract.exe
+E:\Abstract Factory\Abstract\bin\Debug\Abstract.pdb
+E:\Abstract Factory\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+E:\Abstract Factory\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+E:\Abstract Factory\Abstract\obj\Debug\Abstract.exe
+E:\Abstract Factory\Abstract\obj\Debug\Abstract.pdb
