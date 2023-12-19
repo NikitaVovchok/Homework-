@@ -1,0 +1,7 @@
+E:\Pattern Prototype\PaTTern Prototype\bin\Debug\PaTTern Prototype.exe.config
+E:\Pattern Prototype\PaTTern Prototype\bin\Debug\PaTTern Prototype.exe
+E:\Pattern Prototype\PaTTern Prototype\bin\Debug\PaTTern Prototype.pdb
+E:\Pattern Prototype\PaTTern Prototype\obj\Debug\PaTTern Prototype.csproj.AssemblyReference.cache
+E:\Pattern Prototype\PaTTern Prototype\obj\Debug\PaTTern Prototype.csproj.CoreCompileInputs.cache
+E:\Pattern Prototype\PaTTern Prototype\obj\Debug\PaTTern Prototype.exe
+E:\Pattern Prototype\PaTTern Prototype\obj\Debug\PaTTern Prototype.pdb
