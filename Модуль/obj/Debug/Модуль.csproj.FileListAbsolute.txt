@@ -1,0 +1,7 @@
+E:\модуль\Модуль\bin\Debug\Модуль.exe.config
+E:\модуль\Модуль\bin\Debug\Модуль.exe
+E:\модуль\Модуль\bin\Debug\Модуль.pdb
+E:\модуль\Модуль\obj\Debug\Модуль.csproj.AssemblyReference.cache
+E:\модуль\Модуль\obj\Debug\Модуль.csproj.CoreCompileInputs.cache
+E:\модуль\Модуль\obj\Debug\Модуль.exe
+E:\модуль\Модуль\obj\Debug\Модуль.pdb
