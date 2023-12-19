@@ -1,0 +1,7 @@
+E:\Singletone\Singletone\bin\Debug\Singletone.exe.config
+E:\Singletone\Singletone\bin\Debug\Singletone.exe
+E:\Singletone\Singletone\bin\Debug\Singletone.pdb
+E:\Singletone\Singletone\obj\Debug\Singletone.csproj.AssemblyReference.cache
+E:\Singletone\Singletone\obj\Debug\Singletone.csproj.CoreCompileInputs.cache
+E:\Singletone\Singletone\obj\Debug\Singletone.exe
+E:\Singletone\Singletone\obj\Debug\Singletone.pdb
