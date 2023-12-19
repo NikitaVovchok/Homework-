@@ -1,0 +1,7 @@
+E:\Builder\Builder\bin\Debug\Builder.exe.config
+E:\Builder\Builder\bin\Debug\Builder.exe
+E:\Builder\Builder\bin\Debug\Builder.pdb
+E:\Builder\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+E:\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+E:\Builder\Builder\obj\Debug\Builder.exe
+E:\Builder\Builder\obj\Debug\Builder.pdb
